@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Git-Stats
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanL9&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanL9&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanL9&theme=tokyonight)
 
